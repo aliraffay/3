@@ -1,0 +1,100 @@
+ .u-section-1 {
+  background-image: url("images/credit-card-gc5b9d2858_1920.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 553px;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  font-size: 1.25rem;
+  font-weight: 700;
+  align-self: flex-end;
+  margin: 333px auto 0 12px;
+  padding: 10px 53px 10px 52px;
+}
+
+.u-section-1 .u-btn-2 {
+  background-image: none;
+  font-size: 1.25rem;
+  font-weight: 700;
+  align-self: flex-end;
+  margin: -52px auto 0 326px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 667px;
+  height: 445px;
+  margin: -278px -165px 0 auto;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 537px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    font-size: 1.125rem;
+    margin-top: 299px;
+    margin-left: 47px;
+    padding: 9px 48px 11px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    font-size: 1.125rem;
+    margin-top: 34px;
+    margin-left: 44px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 411px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 537px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 575px;
+    height: 384px;
+    margin-top: -276px;
+    margin-right: -169px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 380px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 323px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-top: 10px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 227px;
+    margin-top: -352px;
+    margin-bottom: 60px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+}
